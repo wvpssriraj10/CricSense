@@ -1,0 +1,30 @@
+# Python Virtual Environments
+/venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log and cache files from your DL libraries
+# (Based on requirements-dl.txt)
+
+# --- Weights & Biases (wandb) ---
+/wandb/
+wandb-*.log
+
+# --- TensorBoard ---
+/runs/
+/logs/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
