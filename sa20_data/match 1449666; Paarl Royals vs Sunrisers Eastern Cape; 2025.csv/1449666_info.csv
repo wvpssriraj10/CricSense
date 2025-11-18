@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2024/25
+info,date,2025/02/06
+info,event,SA20
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Paarl Royals
+info,toss_decision,bat
+info,player_of_match,T de Zorzi
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,A Paleker
+info,tv_umpire,A Jacobs
+info,match_referee,SB Lambson
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,8
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,MJ Owen
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,DN Wellalage
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,KT Maphaka
+info,player,Sunrisers Eastern Cape,T de Zorzi
+info,player,Sunrisers Eastern Cape,DG Bedingham
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,C Overton
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,Sunrisers Eastern Cape,RJ Gleeson
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,C Overton,e9987a94
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,TB Abell,ba9258a7

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Paarl Royals
+info,gender,male
+info,season,2024/25
+info,date,2025/02/04
+info,event,SA20
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,D Potgieter
+info,umpire,A Paleker
+info,umpire,BP Jele
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,MI Cape Town
+info,winner_runs,39
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,Sediqullah Atal
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,RR Hendricks
+info,player,MI Cape Town,C Bosch
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,TA Boult
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,MJ Owen
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,DN Wellalage
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,KT Maphaka
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Bosch,172dff15
+info,registry,people,CA Ingram,c995d726
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,GF Linde,e5437608
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,MJ Owen,f2c936d7
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Sediqullah Atal,3c28853f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,TA Boult,a818c1be

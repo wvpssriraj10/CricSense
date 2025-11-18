@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/28
+info,event,SA20
+info,match_number,24
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,M Pretorius
+info,umpire,AM Sodumo
+info,umpire,LB Gcuma
+info,reserve_umpire,MN Gampu
+info,tv_umpire,Siphelele Gasa
+info,match_referee,SA Fritz
+info,winner,Pretoria Capitals
+info,winner_wickets,6
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,WJ Lubbe
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,L Sipamla
+info,player,Joburg Super Kings,M Pathirana
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,WCF Smeed
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,AJ Turner
+info,player,Pretoria Capitals,K Lion-Cachet
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,TS Rogers
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,GG Peters
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GG Peters,360f4e4b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,K Lion-Cachet,aed9ac31
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Gampu,41597619
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TS Rogers,1b04e02b
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WJ Lubbe,10f42013

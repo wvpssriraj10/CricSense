@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/25
+info,event,SA20
+info,match_number,20
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,JE Root
+info,umpire,AM Sodumo
+info,umpire,James Middlebrook
+info,reserve_umpire,DJ Smith
+info,tv_umpire,M Erasmus
+info,match_referee,SB Lambson
+info,winner,Paarl Royals
+info,winner_runs,11
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,JE Root
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DN Wellalage
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,N Peter
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,K Lion-Cachet
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,KI Simmonds
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,JP Behrendorff
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JE Root,a343262c
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,K Lion-Cachet,aed9ac31
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Peter,212aeedd
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SB Lambson,4146063f
+info,registry,people,WG Jacks,9caf69a1

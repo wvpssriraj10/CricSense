@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/02/02
+info,event,SA20
+info,match_number,30
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,MI Cape Town
+info,toss_decision,bat
+info,player_of_match,DL Piedt
+info,umpire,A Steenkamp
+info,umpire,Siphelele Gasa
+info,reserve_umpire,TC Mokorosi
+info,tv_umpire,M Erasmus
+info,match_referee,ZTA Ndamane
+info,winner,MI Cape Town
+info,winner_runs,95
+info,player,MI Cape Town,Sediqullah Atal
+info,player,MI Cape Town,C Esterhuizen
+info,player,MI Cape Town,CA Ingram
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,CG Benjamin
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,T Luus
+info,player,MI Cape Town,MJ Potts
+info,player,MI Cape Town,DL Piedt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,S Stolk
+info,player,Pretoria Capitals,WCF Smeed
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,K Lion-Cachet
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Boast
+info,player,Pretoria Capitals,JP Behrendorff
+info,player,Pretoria Capitals,GG Peters
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,GF Linde,e5437608
+info,registry,people,GG Peters,360f4e4b
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,K Lion-Cachet,aed9ac31
+info,registry,people,K Verreynne,bf814547
+info,registry,people,M Boast,2f838fa4
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Stolk,407563b0
+info,registry,people,Sediqullah Atal,3c28853f
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Luus,a0b76243
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TP Kaber,0773c16a
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,ZTA Ndamane,545cc6db

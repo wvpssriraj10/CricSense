@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/01/30
+info,event,SA20
+info,match_number,26
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,AM Sodumo
+info,umpire,Stephen Harris
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,A Paleker
+info,match_referee,GH Pienaar
+info,winner,Joburg Super Kings
+info,winner_wickets,7
+info,player,Paarl Royals,SR Hain
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,KJ Dudgeon
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,KT Maphaka
+info,player,Paarl Royals,L Ngidi
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,WJ Lubbe
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,L Sipamla
+info,player,Joburg Super Kings,M Pathirana
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DP Conway,df5a6881
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KJ Dudgeon,b8828a1b
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,SR Hain,67b9536c
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,WJ Lubbe,10f42013

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,MI Cape Town
+info,gender,male
+info,season,2024/25
+info,date,2025/01/29
+info,event,SA20
+info,match_number,25
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,MI Cape Town
+info,toss_decision,field
+info,player_of_match,C Bosch
+info,umpire,A Jacobs
+info,umpire,MN Gampu
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,M Erasmus
+info,match_referee,LH Matroos
+info,winner,MI Cape Town
+info,winner_wickets,10
+info,player,Sunrisers Eastern Cape,DG Bedingham
+info,player,Sunrisers Eastern Cape,T de Zorzi
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,A Simelane
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,C Overton
+info,player,Sunrisers Eastern Cape,RJ Gleeson
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,RR Hendricks
+info,player,MI Cape Town,CA Ingram
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,C Bosch
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,TA Boult
+info,player,MI Cape Town,K Rabada
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Simelane,ebb74564
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Overton,e9987a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MN Gampu,41597619
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TB Abell,ba9258a7

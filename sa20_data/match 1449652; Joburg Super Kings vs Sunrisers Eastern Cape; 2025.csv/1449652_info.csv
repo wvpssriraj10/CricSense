@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/01/24
+info,event,SA20
+info,match_number,19
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,M Jansen
+info,umpire,A Steenkamp
+info,umpire,MN Gampu
+info,reserve_umpire,BM White
+info,tv_umpire,A Paleker
+info,match_referee,LH Matroos
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,14
+info,player,Sunrisers Eastern Cape,Z Crawley
+info,player,Sunrisers Eastern Cape,DG Bedingham
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,Sunrisers Eastern Cape,RJ Gleeson
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,WJ Lubbe
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,M Theekshana
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,L Sipamla
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BM White,66c21d35
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MN Gampu,41597619
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Crawley,922e1b19

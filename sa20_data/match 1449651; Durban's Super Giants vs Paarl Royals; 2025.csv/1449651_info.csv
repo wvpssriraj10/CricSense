@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Paarl Royals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/23
+info,event,SA20
+info,match_number,18
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,BC Fortuin
+info,umpire,LB Gcuma
+info,umpire,PJ Vosloo
+info,reserve_umpire,DJ Smith
+info,tv_umpire,Stephen Harris
+info,match_referee,SA Fritz
+info,winner,Paarl Royals
+info,winner_wickets,5
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,JT Smuts
+info,player,Durban's Super Giants,CR Woakes
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,JE Root
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,KJ Dudgeon
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,E Malinga
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JE Root,a343262c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KJ Dudgeon,b8828a1b
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Stephen Harris,fdcfd4aa

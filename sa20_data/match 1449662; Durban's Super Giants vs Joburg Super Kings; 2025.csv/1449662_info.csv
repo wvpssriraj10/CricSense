@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/02/01
+info,event,SA20
+info,match_number,29
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,Noor Ahmad
+info,umpire,A Jacobs
+info,umpire,Stephen Harris
+info,reserve_umpire,MN Gampu
+info,tv_umpire,BP Jele
+info,match_referee,SB Lambson
+info,winner,Durban's Super Giants
+info,winner_runs,11
+info,method,D/L
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,MP Stoinis
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Durban's Super Giants,CJ King
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,WJ Lubbe
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,M Theekshana
+info,player,Joburg Super Kings,L Sipamla
+info,player,Joburg Super Kings,T Shamsi
+info,registry,people,A Jacobs,70d117de
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,CJ King,47c9f734
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Gampu,41597619
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
