@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/01/11
+info,event,SA20
+info,match_number,4
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,BP Jele
+info,umpire,M Erasmus
+info,reserve_umpire,BM White
+info,tv_umpire,A Paleker
+info,match_referee,SB Lambson
+info,winner,Joburg Super Kings
+info,winner_runs,6
+info,method,D/L
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RR Hendricks
+info,player,MI Cape Town,C Esterhuizen
+info,player,MI Cape Town,CA Ingram
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,Azmatullah Omarzai
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,TA Boult
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,WJ Lubbe
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,D Wiese
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,M Pathirana
+info,player,Joburg Super Kings,L Sipamla
+info,player,Joburg Super Kings,T Shamsi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,CA Ingram,c995d726
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SB Lambson,4146063f
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TA Boult,a818c1be
+info,registry,people,WJ Lubbe,10f42013

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Paarl Royals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/20
+info,event,SA20
+info,match_number,15
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,JM Bairstow
+info,umpire,A Jacobs
+info,umpire,DJ Smith
+info,reserve_umpire,TC Mokorosi
+info,tv_umpire,A Paleker
+info,match_referee,ZTA Ndamane
+info,winner,Paarl Royals
+info,winner_wickets,6
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,T Shamsi
+info,player,Joburg Super Kings,L Sipamla
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,JE Root
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,DN Wellalage
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,KT Maphaka
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,DP Conway,df5a6881
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JE Root,a343262c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,ZTA Ndamane,545cc6db

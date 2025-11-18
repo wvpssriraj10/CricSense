@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/22
+info,event,SA20
+info,match_number,17
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,AK Markram
+info,umpire,BP Jele
+info,umpire,BM White
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,A Steenkamp
+info,match_referee,LH Matroos
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,52
+info,player,Sunrisers Eastern Cape,Z Crawley
+info,player,Sunrisers Eastern Cape,DG Bedingham
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,Sunrisers Eastern Cape,RJ Gleeson
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,K Lion-Cachet
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,KI Simmonds
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,JP Behrendorff
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,K Lion-Cachet,aed9ac31
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Z Crawley,922e1b19

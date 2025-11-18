@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/10
+info,event,SA20
+info,match_number,2
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,Rahmanullah Gurbaz
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,DJ Smith
+info,tv_umpire,A Steenkamp
+info,match_referee,GH Pienaar
+info,winner,Durban's Super Giants
+info,winner_runs,2
+info,player,Durban's Super Giants,B Parsons
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KS Williamson
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,CR Woakes
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,LS Livingstone
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,S Stolk
+info,player,Pretoria Capitals,KI Simmonds
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,DM Dupavillon
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Stolk,407563b0
+info,registry,people,WG Jacks,9caf69a1

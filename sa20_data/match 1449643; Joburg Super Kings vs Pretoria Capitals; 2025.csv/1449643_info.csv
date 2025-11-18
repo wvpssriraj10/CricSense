@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2024/25
+info,date,2025/01/16
+info,event,SA20
+info,match_number,10
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,James Middlebrook
+info,tv_umpire,Stephen Harris
+info,match_referee,LH Matroos
+info,outcome,no result
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,LS Livingstone
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,T van Vuuren
+info,player,Joburg Super Kings,DP Conway
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,JM Bairstow
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,E Jones
+info,player,Joburg Super Kings,D Wiese
+info,player,Joburg Super Kings,GC Viljoen
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,L Sipamla
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DP Conway,df5a6881
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MM Ali,bb351c23
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,WG Jacks,9caf69a1

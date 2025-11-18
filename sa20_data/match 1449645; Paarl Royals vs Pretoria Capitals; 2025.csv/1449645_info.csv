@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Paarl Royals
+info,gender,male
+info,season,2024/25
+info,date,2025/01/18
+info,event,SA20
+info,match_number,12
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,bat
+info,player_of_match,JE Root
+info,umpire,James Middlebrook
+info,umpire,Stephen Harris
+info,reserve_umpire,MN Gampu
+info,tv_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,Paarl Royals
+info,winner_wickets,8
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,Rahmanullah Gurbaz
+info,player,Pretoria Capitals,WCF Smeed
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,MJ Ackerman
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,T van Vuuren
+info,player,Paarl Royals,LG Pretorius
+info,player,Paarl Royals,JE Root
+info,player,Paarl Royals,RA Herman
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,KD Karthik
+info,player,Paarl Royals,Dayyaan Galiem
+info,player,Paarl Royals,Mujeeb Ur Rahman
+info,player,Paarl Royals,E Malinga
+info,player,Paarl Royals,KT Maphaka
+info,player,Paarl Royals,L Ngidi
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JE Root,a343262c
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MJ Ackerman,6287d981
+info,registry,people,MN Gampu,41597619
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T van Vuuren,20afc7e7
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WG Jacks,9caf69a1
