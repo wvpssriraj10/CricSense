@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-10-29T21:08:22.867816",
+  "data_directory": "sa20 data",
+  "total_matches_analyzed": 99,
+  "overall_score": 0.7924242424242425,
+  "data_quality": {
+    "total_matches": 99,
+    "matches_with_dates": 99,
+    "matches_with_both_innings": 99,
+    "matches_with_valid_data": 94,
+    "missing_first_innings": 0,
+    "missing_second_innings": 0,
+    "missing_both_innings": 0,
+    "data_completeness_score": 0.9494949494949495,
+    "date_parsing_success_rate": 1.0,
+    "file_integrity_score": 1.0
+  },
+  "summary_quality": {
+    "total_summaries_generated": 94,
+    "successful_summaries": 0,
+    "failed_summaries": 0,
+    "summary_generation_success_rate": 1.0,
+    "average_summary_length": 1830.1170212765958,
+    "summary_consistency_score": 0.85,
+    "score_accuracy_rate": 1.0,
+    "result_prediction_accuracy": 1.0
+  },
+  "system_performance": {
+    "average_processing_time_per_match": 0.004267100131872929,
+    "total_processing_time": 0.42256999015808105,
+    "memory_usage_mb": 0.01171875,
+    "cpu_usage_percent": 20.9,
+    "file_io_operations": 198,
+    "error_rate": 0.0
+  },
+  "accuracy_metrics": {
+    "score_prediction_mae": 0.0,
+    "score_prediction_rmse": 0.0,
+    "score_prediction_r2": 1.0,
+    "result_classification_accuracy": 1.0,
+    "result_precision": 1.0,
+    "result_recall": 1.0,
+    "result_f1_score": 1.0
+  },
+  "recommendations": [
+    "System performance is within acceptable parameters"
+  ]
+}
