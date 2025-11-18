@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 <div align="center">
-  <img src="https://github.com/wvpssriraj10/CricketSense-An-AI-Powered-Cricket-Match-Summary-Generator/raw/main/assets/cricketsense-banner.png" alt="CricketSense Banner" width="100%">
+  <img src="images/banner.png" alt="CricketSense Banner" width="100%">
 </div>
 
 ## ✨ Features
@@ -321,3 +321,4 @@ Project Link: [https://github.com/wvpssriraj10/CricketSense-An-AI-Powered-Cricke
 <div align="center">
   Made by W V P S SRIRAJ | ⚡ Powered by AI
 </div>
+
