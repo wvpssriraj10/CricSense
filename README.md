@@ -10,6 +10,12 @@
   <img src="images/banner.png" alt="CricketSense Banner" width="100%">
 </div>
 
+CricSense is an AI-powered cricket analytics system that converts raw ball-by-ball match data into clear, engaging, human-like match summaries.
+It supports both rule-based summarization and a GPT-2–based deep learning model, enabling developers and researchers to explore narrative generation, compare approaches, and evaluate performance using industry-standard metrics.
+
+This project is built for cricket enthusiasts, data scientists, and NLP researchers who want to experiment with automated sports narration.
+
+
 ## ✨ Features
 
 - 🎯 **Dual AI Systems**: Both rule-based baseline and deep learning models
@@ -247,16 +253,24 @@ MI Cape Town set a challenging total of 187/5 in their 20 overs, with their top 
 
 ```
 CricketSense/
-├── cricsense_match_summary.py   # 🎯 MAIN FILE (everything here!)
-├── requirements.txt             # Basic dependencies
-├── requirements-dl.txt          # Deep learning dependencies
-├── USAGE_GUIDE.md              # Detailed usage guide
-├── README.md                    # This file
-├── LICENSE                      # MIT License
-├── sa20 data/                   # Your match data (not tracked)
-│   ├── match 1343941; MI Cape Town vs Paarl Royals; 2023.csv/
-│   └── ... (all your match files)
-└── results/                     # Training checkpoints (ignored)
+│
+├── cricsense_match_summary.py        # Main CLI & summarization system
+├── cricsense_metrics_report.py       # Script to analyze & visualize metrics
+├── evaluate_baseline.py              # Compare baseline rule-based outputs
+├── example_metrics_usage.py          # Example of evaluating DL model outputs
+├── metrics.py                        # Custom metric functions + ROUGE/BLEU helpers
+│
+├── sa20 data/                        # <--- Ball-by-ball match CSVs (user-supplied)
+│
+├── all_matches.csv                   # Aggregated dataset (optional)
+├── merged_data.xlsx                  # Combined dataset for DL training (optional)
+│
+├── README.md                         # Documentation (this file)
+├── METRICS_README.md                 # Detailed metrics documentation
+├── LICENSE                           # MIT License
+├── .gitignore
+└── images/                           # Banners / visuals
+
 ```
 
 ## 🎓 Research Features
@@ -321,5 +335,6 @@ Project Link: [https://github.com/wvpssriraj10/CricketSense-An-AI-Powered-Cricke
 <div align="center">
   Made by W V P S SRIRAJ 
 </div>
+
 
 
